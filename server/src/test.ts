@@ -1,0 +1,5 @@
+class moo {
+
+}
+
+export {moo}

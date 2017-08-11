@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2015",
+    "alwaysStrict": true,
+    "sourceMap": true,
+    "outDir": "server/build"
+  },
+  "include": [
+    "server/src/**/*",
+    "shared/src/**/*"
+  ],
+  "types": [
+    "node"
+  ]
+}
