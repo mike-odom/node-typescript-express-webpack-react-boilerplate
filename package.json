@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "express": "^4.15.4",
+    "express": "^4.18.2",
     "express-handlebars": "^3.0.0",
     "npm-run": "^4.1.2",
     "react": "^16.12.0",
